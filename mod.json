@@ -1,0 +1,22 @@
+{
+	"geode": "3.1.1",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "saumondeluxe.noclip",
+	"name": "Noclip",
+	"version": "v1.0.0",
+	"developer": "SaumonDeLuxe",
+	"description": "This is a simple noclip mod to ignore every object collision.",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Enable or disable the noclip mod.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
