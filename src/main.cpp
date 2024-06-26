@@ -64,7 +64,7 @@ class $modify(OpenSettings, PauseLayer)
             ccp((winSize.width / 2) - 41, (winSize.height / 2) - 181);
 
         PauseLayer::customSetup();
-        auto btnSprite = CCSprite::create("GJ_likeBtn_001.png");
+        auto btnSprite = CCSprite::create("btnSprite.png"_spr);
         auto menu = this->getChildByID("right-button-menu");
         auto btn = CCMenuItemSpriteExtra::create(
             btnSprite, this, menu_selector(OpenSettings::btnSettings));

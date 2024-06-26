@@ -18,5 +18,22 @@
 			"type": "bool",
 			"default": false
 		}
+	},
+	"resources": {
+		"sprites": [
+			"resources/btnSprite.png"
+		]
+	},
+	"repository": "https://github.com/shadowforce78/NoclipGeode",
+	"tags": [
+		"cheats",
+		"utility"
+	],
+	"issues": {
+		"info": "If you have any issues, please report them on the GitHub repository.",
+		"url": "https://github.com/shadowforce78/NoclipGeode/issues"
+	},
+	"links": {
+		"source": "https://github.com/shadowforce78/NoclipGeode/"
 	}
 }
